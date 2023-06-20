@@ -28,7 +28,7 @@ I am a JavaScript Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://developer.apple.com/swift/images/swift-og.png" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" title="React Native" alt="React Native" width="40" height="40" style="object-fit:contain;"/>&nbsp;
+    <img src="https://youteam.io/blog/wp-content/uploads/2021/11/react-native-logo.png" title="React Native" alt="React Native" width="40" height="40" style="object-fit:contain;"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" title="Vue js" alt="Vue js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-v3-light.svg" title="Vue js" alt="Vue js" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;

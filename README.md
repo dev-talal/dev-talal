@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/talal-tahir-b10559170">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-     <a href="https://www.upwork.com/freelancers/talaltahir7899">
+     <a href="https://www.upwork.com/fl/~01480efae007243204">
       <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Badge"/>
     </a>
   </div>
